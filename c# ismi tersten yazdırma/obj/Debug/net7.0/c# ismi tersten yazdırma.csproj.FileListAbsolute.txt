@@ -1,0 +1,15 @@
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\bin\Debug\net7.0\c# ismi tersten yazdırma.exe
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\bin\Debug\net7.0\c# ismi tersten yazdırma.deps.json
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\bin\Debug\net7.0\c# ismi tersten yazdırma.runtimeconfig.json
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\bin\Debug\net7.0\c# ismi tersten yazdırma.dll
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\bin\Debug\net7.0\c# ismi tersten yazdırma.pdb
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\obj\Debug\net7.0\c# ismi tersten yazdırma.csproj.AssemblyReference.cache
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\obj\Debug\net7.0\c# ismi tersten yazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\obj\Debug\net7.0\c# ismi tersten yazdırma.AssemblyInfoInputs.cache
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\obj\Debug\net7.0\c# ismi tersten yazdırma.AssemblyInfo.cs
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\obj\Debug\net7.0\c# ismi tersten yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\obj\Debug\net7.0\c# ismi tersten yazdırma.dll
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\obj\Debug\net7.0\refint\c# ismi tersten yazdırma.dll
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\obj\Debug\net7.0\c# ismi tersten yazdırma.pdb
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\obj\Debug\net7.0\c# ismi tersten yazdırma.genruntimeconfig.cache
+C:\Users\gizem\Desktop\c# ismi tersten yazdırma\obj\Debug\net7.0\ref\c# ismi tersten yazdırma.dll
